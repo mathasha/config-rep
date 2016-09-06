@@ -1,0 +1,1 @@
+test configuration files will be stored here to retrieve on spring cloud config client
